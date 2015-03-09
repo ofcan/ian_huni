@@ -4,12 +4,15 @@ highlighter: pygments
 
 # Site settings
 title: "Ian Huni"
-description: > # this means to ignore newlines until "email:"
+tagline: > # this means to ignore newlines until "email:"
    On architecture...
 
 name: 'Sam Yonski'
 author: 'Sam Yonski'
 author_image: "/assets/images/author.jpg"
+
+#blog logo
+logo: "/images/logo.png"
 
 url: "https://ofcan.github.io" # the base hostname & protocol for your site
 baseurl: /ian_huni
