@@ -1,3 +1,24 @@
-name: Flex
+# Build settings
 markdown: redcarpet
-highlighter: true
+highlighter: pygments
+
+# Site settings
+title: "Ian Huni"
+description: > # this means to ignore newlines until "email:"
+   On architecture...
+
+name: 'Sam Yonski'
+author: 'Sam Yonski'
+author_image: "/assets/images/author.jpg"
+
+url: "https://ofcan.github.io" # the base hostname & protocol for your site
+baseurl: /ian_huni
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/samyonski
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
